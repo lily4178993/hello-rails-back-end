@@ -117,9 +117,10 @@ Navigate to `http://localhost:3000/api/v1/greeting` to see the API in action, re
 
 ## Tests <a name="tests"></a>
 
-To run the test suite, execute:
+To run the test suite, execute the following commands:
 
 ```bash
+rails db:migrate RAILS_ENV=test
 rspec
 ```
 
