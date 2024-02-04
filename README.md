@@ -21,7 +21,11 @@
 
 ## About Project <a name="about-project"></a>
 
-The "Hello Rails" app is a straightforward Rails API designed to demonstrate the creation of a RESTful API service with Ruby on Rails. This service's sole functionality is to fetch a random greeting from a predefined list stored in a PostgreSQL database. It serves as an excellent starting point for understanding Rails API development and database integration.
+The "Hello Rails" app is a Rails API that fetches a random greeting from a PostgreSQL database, demonstrating basic Rails API development. For a practical application, the "Hello React" app consumes this API to display greetings, showcasing a full-stack integration with React, Vite, and TailwindCSS.
+
+[See the "Hello React" app in action here](https://github.com/lily4178993/hello-react-front-end).
+
+---
 
 ## Built With <a name="built-with"></a>
 
