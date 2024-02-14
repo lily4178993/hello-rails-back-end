@@ -34,8 +34,8 @@ The "Hello Rails" app is a Rails API that fetches a random greeting from a Postg
 
 ## Tech Stack <a name="tech-stack"></a>
 
-- **Ruby version**: 3.2.2
-- **Rails version**: Specify your Rails version
+- **Ruby**: V3.2.2
+- **Rails**: V7.1
 - **Database**: PostgreSQL
 
 ## Key Features <a name="key-features"></a>
@@ -49,8 +49,8 @@ The "Hello Rails" app is a Rails API that fetches a random greeting from a Postg
 
 ### Prerequisites <a name="prerequisites"></a>
 
-- Ruby 3.2.2
-- Rails 7.1
+- Ruby
+- Rails 
 - PostgreSQL
 
 ### Setup <a name="setup"></a>
